@@ -9,7 +9,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyANZUJLLFZ5AZW-sA43o1pyiXRFtGSyM5U",
   authDomain: "cryptodesk-7f3a7.firebaseapp.com",
   projectId: "cryptodesk-7f3a7",
-  storageBucket: "cryptodesk-7f3a7.appspot.com
+  storageBucket: "cryptodesk-7f3a7.appspot.com"
   messagingSenderId: "82040774359",
   appId: "1:82040774359:web:f2d0366e0cd6ace1931a92"
 };
